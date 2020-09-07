@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hAPxQKREfI70Mixoq1CNvGdO8s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/css" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/.next" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="" />
+      <created>1599451169504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599451169504</updated>
+      <workItem from="1599451170677" duration="8503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1599452249341">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599452249341" />
+    <state width="1874" height="284" key="GridCell.Tab.0.center" timestamp="1599452249341">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599452249341" />
+    <state width="1874" height="284" key="GridCell.Tab.0.left" timestamp="1599452249340">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599452249340" />
+    <state width="1874" height="284" key="GridCell.Tab.0.right" timestamp="1599452249341">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599452249341" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1599452399299">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599452399299" />
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599460699410">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599460699410" />
+    <state x="651" y="279" width="618" height="522" key="find.popup" timestamp="1599457402866">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="651" y="279" width="618" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599457402866" />
   </component>
 </project>
