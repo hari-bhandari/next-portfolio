@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="" />
+    <list default="true" id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Components/sections/Welcome /WelcomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Components/sections/Welcome /WelcomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hAPxQKREfI70Mixoq1CNvGdO8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -39,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599451169504</updated>
       <workItem from="1599451170677" duration="8503000" />
+      <workItem from="1599502694004" duration="1271000" />
+      <workItem from="1599726368191" duration="1402000" />
     </task>
     <servers />
   </component>
