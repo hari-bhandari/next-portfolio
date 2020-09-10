@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Components/sections/Welcome /WelcomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Components/sections/Welcome /WelcomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,8 @@
       <updated>1599451169504</updated>
       <workItem from="1599451170677" duration="8503000" />
       <workItem from="1599502694004" duration="1271000" />
-      <workItem from="1599726368191" duration="1402000" />
+      <workItem from="1599726368191" duration="3746000" />
+      <workItem from="1599747157733" duration="3678000" />
     </task>
     <servers />
   </component>
@@ -85,9 +85,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599460699410" />
-    <state x="651" y="279" width="618" height="522" key="find.popup" timestamp="1599457402866">
+    <state x="651" y="279" width="618" height="522" key="find.popup" timestamp="1599747245533">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="651" y="279" width="618" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599457402866" />
+    <state x="651" y="279" width="618" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599747245533" />
   </component>
 </project>

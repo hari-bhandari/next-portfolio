@@ -1,3 +1,4 @@
+
 import React, {Fragment} from 'react';
 import WelcomePage from "./Components/sections/Welcome /WelcomePage";
 import Navbar from "./Components/layout/Navbar";
@@ -11,13 +12,13 @@ function App() {
 
     return (
         <Fragment>
-                <Navbar/>
-                <WelcomePage/>
-                <AboutMe/>
-                <Skills/>
-                <Projects/>
-                <ContactMe/>
-                <Footer/>
+            <Navbar/>
+            <WelcomePage/>
+            <AboutMe/>
+            <Skills/>
+            <Projects/>
+            <ContactMe/>
+            <Footer/>
         </Fragment>
     );
 }

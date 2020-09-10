@@ -6,7 +6,7 @@ import Coding from "./Coding";
 
 const WelcomePage = () => {
     return (
-        <body id="home" className="py-5 " style={{width:'100%', overflow:'hidden'}}>
+        <div id="home" className="py-5 " style={{width:'100%'}}>
         <div className='primary-overlay text-white'>
             <div className="container">
                 <div className="row">
@@ -28,7 +28,7 @@ const WelcomePage = () => {
                 </div>
             </div>
         </div>
-        </body>
+        </div>
     );
 };
 
