@@ -1,6 +1,6 @@
 import React, {Fragment} from 'react';
+import './css/bootstrap.css'
 import LoadableVisibility from "react-loadable-visibility/react-loadable";
-import Head from "./Components/layout/Head";
 import Loader from "./Components/layout/Loader";
 const Navbar = LoadableVisibility({
     loader: () => import("./Components/layout/Navbar"),

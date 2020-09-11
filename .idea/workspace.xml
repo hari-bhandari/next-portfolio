@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fb03f72-6fae-4c3b-a477-18fcc41d3522" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Components/layout/Head.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Components/layout/Head.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <workItem from="1599502694004" duration="1271000" />
       <workItem from="1599726368191" duration="3746000" />
       <workItem from="1599747157733" duration="11081000" />
-      <workItem from="1599854006677" duration="1651000" />
+      <workItem from="1599854006677" duration="3786000" />
     </task>
     <servers />
   </component>
