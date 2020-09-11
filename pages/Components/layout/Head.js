@@ -1,15 +1,12 @@
-import Head from 'next/head'
+import React from 'react';
 
-function IndexPage() {
+const Head = () => {
     return (
-        <div>
-            <Head>
-                <title>My page title</title>
+        <Head>
+            <title>Hari</title>
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-            </Head>
-            <p>Hello world!</p>
-        </div>
-    )
-}
+        </Head>
+    );
+};
 
-export default IndexPage
+export default Head;

@@ -1,34 +1,35 @@
 import React, {Fragment} from 'react';
 import LoadableVisibility from "react-loadable-visibility/react-loadable";
+import Head from "./Components/layout/Head";
 import Loader from "./Components/layout/Loader";
 const Navbar = LoadableVisibility({
     loader: () => import("./Components/layout/Navbar"),
-    loading: "Loading"
+    loading: Loader
 });
 const WelcomePage = LoadableVisibility({
     loader: () => import("./Components/sections/Welcome /WelcomePage"),
-    loading: "Loading"
+    loading: Loader
 });
 
 const AboutMe = LoadableVisibility({
     loader: () => import("./Components/sections/About Me/AboutMe"),
-    loading: "Loading"
+    loading: Loader
 });
 const Projects = LoadableVisibility({
     loader: () => import("./Components/sections/Projects/Projects"),
-    loading: "Loading"
+    loading: Loader
 });
 const ContactMe = LoadableVisibility({
     loader: () => import("./Components/sections/About Me/ContactMe"),
-    loading: "Loading"
+    loading: Loader
 });
 const Skills = LoadableVisibility({
     loader: () => import("./Components/sections/About Me/Skills"),
-    loading: "Loading"
+    loading: Loader
 });
 const Footer = LoadableVisibility({
     loader: () => import("./Components/layout/Footer"),
-    loading: "Loading"
+    loading: Loader
 });
 
 function App() {
